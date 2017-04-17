@@ -1,0 +1,6 @@
+name: XPHill
+main: me.iran.xphill.XPHill
+version: 1.0
+commands:
+  hill:
+    description: hill commands
